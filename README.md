@@ -4,4 +4,4 @@
 
 ## Schulungsunterlage
 
-- [ ] [Schulungsunterlage SharePoint.pdf](Schulungsunterlage%20SharePoint.pdf)
+- [ ] bitte wenden Sie sich an die Curioz-Abteilung
